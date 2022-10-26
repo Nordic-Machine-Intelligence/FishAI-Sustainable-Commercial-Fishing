@@ -104,6 +104,10 @@ The evaluation script located in `evaluation` produces a directory containing th
   
 </details>
 
+The HTML files included in the produce evaluation directory plot the predicted markers (blue) against the ground truth (red). See example below.
+
+![map](https://raw.githubusercontent.com/Nordic-Machine-Intelligence/FishAI-Sustainable-Commercial-Fishing/main/static/images/map.png)
+
 # Data
 The following data is provided to complete the aforementioned tasks.
 
